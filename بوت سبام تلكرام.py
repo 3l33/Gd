@@ -1,7 +1,7 @@
 import requests
 import telebot
 
-token = "***"#امسح النجوم وحط توكنك 
+token = "6674424550:AAFNsYTN9G8jvKjl9zqESNPi4V_6fqc47ss"#امسح النجوم وحط توكنك 
 bot = telebot.TeleBot(token)
 headers = {
     'authority': 'my.telegram.org',
